@@ -1,0 +1,14 @@
+{
+    "pid":"int",
+    "name":"object",
+    "create_time":"object",
+    "cores":"int",
+    "cpu_usage":"float",
+    "status":"object",
+    "nice":"int",
+    "memory_usage":"float",
+    "read_bytes":"object",
+    "write_bytes":"object",
+    "n_threads":"int",
+    "indexId":"object"
+}

@@ -1,0 +1,5 @@
+{
+    "pid": "int",
+    "cpu": "float",
+    "mem": "float"
+}
