@@ -1,6 +1,6 @@
 # zenatix-devops
 
-### This repositry contains :
+### This repositry contains:
 
 Python code of the application.
 
